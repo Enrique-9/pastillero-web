@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "174552184437",
+    "firebase_url": "https://pastillero-digital-8ad62-default-rtdb.firebaseio.com",
+    "project_id": "pastillero-digital-8ad62",
+    "storage_bucket": "pastillero-digital-8ad62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174552184437:android:ddc0f119984d0803b9aa3c",
+        "android_client_info": {
+          "package_name": "com.example.pastillero_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4TlSfcJhp747Xuv5GHYEDUPIgabVhvjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

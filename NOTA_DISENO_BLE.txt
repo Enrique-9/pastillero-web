@@ -1,0 +1,9 @@
+Diseño renovado para la pantalla Bluetooth
+
+Archivo modificado: lib/screens/bluetooth_page.dart
+
+Cambios: conexión y búsqueda más claras; tarjetas de medicamentos; sincronización visible; funciones de mantenimiento e importación en Herramientas; historial plegable. Se conservaron los comandos BLE, la lógica de Firebase, el formulario de medicamentos y los flujos de confirmación y borrado. El firmware no requiere cambios para esta pantalla.
+
+Para instalar en tu proyecto actual, reemplaza solo lib/screens/bluetooth_page.dart. No reemplaces tu firebase_options.dart ni tus datos. En la carpeta de tu proyecto ejecuta flutter pub get y flutter run -d chrome (o el dispositivo Android que usas).
+
+El paquete omite carpetas temporales como .dart_tool y build. No se pudo compilar Flutter aquí: comprueba el resultado visual y el análisis con flutter analyze en tu equipo.
